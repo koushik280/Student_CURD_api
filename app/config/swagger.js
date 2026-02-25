@@ -10,7 +10,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000/api", // change when deployed
+        url: "https://student-curd-api-rzrx.onrender.com/api/students", // change when deployed
       },
     ],
   },
